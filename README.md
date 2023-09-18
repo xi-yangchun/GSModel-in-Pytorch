@@ -1,5 +1,9 @@
 # GSModel-in-Pytorch
-https://github.com/xi-yangchun/GSModel-in-Pytorch/assets/57708101/fb97155c-0418-4258-abac-f1dfa0b1ee8d
+
+
+https://github.com/xi-yangchun/GSModel-in-Pytorch/assets/57708101/2584d04e-6ff0-4c43-a214-c7b3a84473bd
+
+
 pytorch based example of Gray-Scott model
 requirements
 - pygame
